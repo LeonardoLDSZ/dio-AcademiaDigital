@@ -1,4 +1,4 @@
-package digitalinnovationone.dioAcademiaDigital.Entity.Form;
+package digitalinnovationone.dioAcademiaDigital.entity.Form;
 
 public class AvaliacaoFisicaUpdateForm {
 

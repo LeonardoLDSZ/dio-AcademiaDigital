@@ -1,4 +1,4 @@
-package digitalinnovationone.dioAcademiaDigital.Entity.Form;
+package digitalinnovationone.dioAcademiaDigital.entity.Form;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

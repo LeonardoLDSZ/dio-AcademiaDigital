@@ -1,4 +1,4 @@
-package digitalinnovationone.dioAcademiaDigital.Entity;
+package digitalinnovationone.dioAcademiaDigital.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

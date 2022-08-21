@@ -1,8 +1,8 @@
 package digitalinnovationone.dioAcademiaDigital.service.impl;
 
-import digitalinnovationone.dioAcademiaDigital.Entity.Aluno;
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.MatriculaForm;
-import digitalinnovationone.dioAcademiaDigital.Entity.Matricula;
+import digitalinnovationone.dioAcademiaDigital.entity.Aluno;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.MatriculaForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Matricula;
 import digitalinnovationone.dioAcademiaDigital.repository.AlunoRepository;
 import digitalinnovationone.dioAcademiaDigital.repository.MatriculaRepository;
 import digitalinnovationone.dioAcademiaDigital.service.IMatriculaService;

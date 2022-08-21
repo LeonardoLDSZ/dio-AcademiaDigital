@@ -1,7 +1,7 @@
 package digitalinnovationone.dioAcademiaDigital.service;
 
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.MatriculaForm;
-import digitalinnovationone.dioAcademiaDigital.Entity.Matricula;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.MatriculaForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Matricula;
 
 import java.util.List;
 

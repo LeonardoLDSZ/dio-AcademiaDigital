@@ -1,9 +1,9 @@
 package digitalinnovationone.dioAcademiaDigital.service;
 
-import digitalinnovationone.dioAcademiaDigital.Entity.Aluno;
-import digitalinnovationone.dioAcademiaDigital.Entity.AvaliacaoFisica;
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.AlunoForm;
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.AlunoUpdateForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Aluno;
+import digitalinnovationone.dioAcademiaDigital.entity.AvaliacaoFisica;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.AlunoForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.AlunoUpdateForm;
 
 import java.util.List;
 

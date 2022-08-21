@@ -1,6 +1,6 @@
 package digitalinnovationone.dioAcademiaDigital.repository;
 
-import digitalinnovationone.dioAcademiaDigital.Entity.Matricula;
+import digitalinnovationone.dioAcademiaDigital.entity.Matricula;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,9 +1,9 @@
 package digitalinnovationone.dioAcademiaDigital.service.impl;
 
-import digitalinnovationone.dioAcademiaDigital.Entity.Aluno;
-import digitalinnovationone.dioAcademiaDigital.Entity.AvaliacaoFisica;
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.AvaliacaoFisicaForm;
-import digitalinnovationone.dioAcademiaDigital.Entity.Form.AvaliacaoFisicaUpdateForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Aluno;
+import digitalinnovationone.dioAcademiaDigital.entity.AvaliacaoFisica;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.AvaliacaoFisicaForm;
+import digitalinnovationone.dioAcademiaDigital.entity.Form.AvaliacaoFisicaUpdateForm;
 import digitalinnovationone.dioAcademiaDigital.repository.AlunoRepository;
 import digitalinnovationone.dioAcademiaDigital.repository.AvaliacaoFisicaRepository;
 import digitalinnovationone.dioAcademiaDigital.service.IAvaliacaoFisicaService;
